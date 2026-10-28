@@ -1,0 +1,6 @@
+{
+  "name": "Homebite",
+  "description": "Healthy home food without daily planning. Personalized meal plans, groceries, nutrition, and home cook matching in a cozy warm aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
